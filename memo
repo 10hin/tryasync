@@ -1,1 +1,3 @@
-hoge
+public String index() {
+    return "/index";
+}
